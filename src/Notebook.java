@@ -70,7 +70,7 @@ public class Notebook {
         return "Notebook{" +
                 "Фирма = '" + firm + '\'' +
                 ", ОЗУ(гб) = "  + ram +
-                ", Объём жд(тб) = " + hardDiscSize +
+                ", Объём жд(гб) = " + hardDiscSize +
                 ", Операционная система = '" + oS + '\'' +
                 ", Цвет = '" + color + '\'' +
                 ", Вес(кг) = " + weight +
